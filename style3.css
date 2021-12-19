@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Kufam:wght@700&family=Tajawal:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 12px;
+  margin-left: 99px;
+  margin-top: 10rem;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Tajawal", sans-serif;
+  background: rgba(0, 70, 41, 0.438);
+  overflow-x: hidden;
+}
+
+
+.btn {
+  font-family: inherit;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(0, 168, 98);
+  text-decoration: none;
+  margin-left: 68px;
+  border-top-style: solid;
+
+}
+.nfa {
+  font-family: inherit;
+  font-size: 10rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #ffffff;
+  margin-left: 185px;
+  margin-top: -70px;
+}
+
+.n10 {
+  font-family: inherit;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding: 0.85rem 25rem;
+  border-radius: 9rem;
+  border: none;
+  color: #243b53;
+  background: rgb(0, 182, 106);
+  text-decoration: none;
+  margin-left: 160px;
+  border-top-style: solid;
+}
+
+
+.n1 {
+  font-family: inherit;
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 0.85rem 3rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: #243b53;
+  background: rgb(0, 168, 98);
+  text-decoration: none;
+  margin-left: 80px;
+  border-top-style: solid;
+
+
+}
+
+.btn:hover {
+  background: rgb(0, 128, 74);
+}
+
+
+.n1:hover {
+  background: rgb(0, 128, 74);
+}
+
+.n10:hover {
+  background: rgb(0, 143, 83);
+}
